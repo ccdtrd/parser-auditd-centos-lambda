@@ -1,0 +1,15 @@
+{
+  "name": "parser-auditd-macos-lambda",
+  "version": "0.0.1",
+  "description": "auditd centos parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
